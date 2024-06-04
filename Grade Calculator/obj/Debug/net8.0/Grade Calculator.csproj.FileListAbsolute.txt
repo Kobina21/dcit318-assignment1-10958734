@@ -1,0 +1,14 @@
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\bin\Debug\net8.0\Grade Calculator.exe
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\bin\Debug\net8.0\Grade Calculator.deps.json
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\bin\Debug\net8.0\Grade Calculator.runtimeconfig.json
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\bin\Debug\net8.0\Grade Calculator.dll
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\bin\Debug\net8.0\Grade Calculator.pdb
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfoInputs.cache
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.AssemblyInfo.cs
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.csproj.CoreCompileInputs.cache
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.dll
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\refint\Grade Calculator.dll
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.pdb
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\Grade Calculator.genruntimeconfig.cache
+c:\Users\FORSON\Documents\GitHub\dcit318-assignment1-10958734\Grade Calculator\obj\Debug\net8.0\ref\Grade Calculator.dll
