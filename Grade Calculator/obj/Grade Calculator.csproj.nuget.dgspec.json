@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj": {}
+    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj": {
+    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj",
         "projectName": "Grade Calculator",
-        "projectPath": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj",
+        "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\Grade Calculator.csproj",
         "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\obj\\",
+        "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\Grade Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
