@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
+      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
       "projectName": "TriangleTypeIdentifier",
-      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
+      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TriangleTypeIdentifier\\TriangleTypeIdentifier.csproj",
       "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TriangleTypeIdentifier\\obj\\",
+      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TriangleTypeIdentifier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
