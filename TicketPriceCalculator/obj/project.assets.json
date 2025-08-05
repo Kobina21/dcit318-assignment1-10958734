@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
       "projectName": "TicketPriceCalculator",
-      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
+      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
       "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\TicketPriceCalculator\\obj\\",
+      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment1-10958734\\TicketPriceCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
